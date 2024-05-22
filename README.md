@@ -1,4 +1,4 @@
-**INTRODUCTION**
+**INTRODUCTION**\n
 To develop an end-to-end system that interprets spoken language and generates corresponding visual
 content.To explore and improve the integration between speech recognition systems and image
 generation models.This project aims to explore the intersection of speech recognition and image
