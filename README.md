@@ -6,3 +6,4 @@ understanding of the input text, and high-quality image synthesis.A novel deep a
 GAN formulation are proposed to effectively bridge these advances in text and image modeling,
 translating visual concepts from characters to pixels.
 
+![image](https://github.com/akshara2207/SPEECH-TO-IMAGE-TRANSLATION-MAIN-PROJECT/assets/117832952/c0d3f5a6-e2a3-420a-a4cd-5131e26e30c1)
